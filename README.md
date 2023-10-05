@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatimaZcode
-- 👀 I’m interested in .data science..
-- 🌱 I’m currently learning ..AI.
+- 👀 I’m interested to know about Information Technology.
+- 🌱 I’m currently learning ..python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
